@@ -181,10 +181,6 @@ video {
   font-family: "Fira Sans Condensed", sans-serif;
 }
 
-.search-form__submit-button {
-  /* пока не придумал*/
-}
-
 .content__details {
   inline-size: 100%;
 }
