@@ -63,10 +63,6 @@ video {
   block-size: 298px;
 }
 
-.content__list::-webkit-scrollbar {
-  display: none;
-}
-
 .result{
   align-self: flex-end;
 }
